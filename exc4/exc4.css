@@ -1,0 +1,13 @@
+.send-button {
+    cursor: pointer;
+    height: 25px;
+    border-radius: 25%;
+    border: 3px solid black;
+}
+
+
+.input-number {
+  border: 3px solid black;
+  border-radius: 25%;
+  text-align: center;
+}
